@@ -1,5 +1,21 @@
 # pangolin_robot
 
+# Login
+
+CSL@TT
+
+```
+ssh pangolin@10.100.4.54
+```
+
+CSL-FET@TT
+
+```
+ssh pangolin@192.168.1.222
+```
+
+Password: csl92021164
+
 # Bringup
 
 ```
